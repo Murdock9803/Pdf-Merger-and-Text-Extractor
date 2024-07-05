@@ -1,1 +1,1 @@
-lorem ipsum
+This is a simple text file, in which the text will be extracted from the pdf
